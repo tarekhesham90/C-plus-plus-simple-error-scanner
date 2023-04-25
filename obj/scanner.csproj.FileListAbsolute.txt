@@ -1,0 +1,17 @@
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\bin\Debug\scanner.exe
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\bin\Debug\scanner.pdb
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\obj\Debug\scanner.Form1.resources
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\obj\Debug\scanner.Properties.Resources.resources
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\obj\Debug\scanner.csproj.GenerateResource.Cache
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\obj\Debug\scanner.exe
+F:\projects\Study Location\semester 6\logical programming\C++ Scan editor\scanner\scanner\obj\Debug\scanner.pdb
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.exe
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.pdb
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\bin\Debug\scanner.exe
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\bin\Debug\scanner.pdb
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\ResolveAssemblyReference.cache
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.Form1.resources
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.Properties.Resources.resources
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.csproj.GenerateResource.Cache
+F:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.Form2.resources

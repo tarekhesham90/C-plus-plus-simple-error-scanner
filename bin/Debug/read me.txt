@@ -1,0 +1,60 @@
+project name :C++ Editor
+
+the key words
+
+-public
+
+-private
+
+-protected
+
+-internal
+
+-int 
+
+-double 
+
+-decimal 
+
+-float 
+
+-long 
+
+-short
+
+-string
+
+-char
+
+-bool
+
+-true
+
+-false
+
+-if 
+
+-for
+
+-while
+
+
+grammers
+
+
+statment-> (declare | experation | if statment |for statment |while statment)  statment 
+
+# declare->(public |private |protected |internal )?(int |double |decimal |float |long |short )\s*(_*[a-zA-Z]+[0-9]*)+\s*(=\s*[0-9]+)?\s*; 
+|(public |private |protected |internal )?(string )\\s*(_*[a-zA-Z]+[0-9]*)+\\s*(=\\s*\"(\\s*[a-zA-Z0-9]+\\s*)*\")?; 
+| (public |private |protected |internal )?(char )\\s*(_*[a-zA-Z]+[0-9]*)+\\s*(=\\s*\'[a-zA-Z0-9]\')?\\s*; 
+| (public |private |protected |internal )?(bool )\\s*(_*[a-zA-Z]+[0-9]*)+\\s*(=\\s*(true|false))?\\s*;
+
+# experation->[a-zA-Z]+=[a-zA-Z0-9]+((\*|/|\+|\-)[a-zA-Z0-9]+)*;
+
+# condition->[a-zA-Z0-9]+\s*((==|\|\||&&|>|<|<=|>=|=>|=<)\s*[a-zA-Z0-9]+)*
+
+# if statment->\s*if\s*\(\s*" + condition + @"\s*\)\s*{\s*(((" + declare + @")|(" + experation + @"))\s*)*\s*}\s*
+
+# for statment->\s*for\s*\(\s*" + declare + @"\s*"+condition+@"\s*;\s*[a-zA-Z]+(\+\+|\-\-)\s*\)\s*{\s*(((" + declare + @")|(" + experation + @"))\s*)*\s*}\s*
+
+# while statment->\s*while\s*\(\s*" + condition + @"\s*\)\s*{\s*(((" + declare + @")|(" + experation + @"))\s*)*\s*}\s*

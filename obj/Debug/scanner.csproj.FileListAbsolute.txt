@@ -1,0 +1,2 @@
+D:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.exe
+D:\projects\Study Location\semester 6\Programming Language\C++ Scan editor\scanner\scanner\obj\Debug\scanner.pdb
